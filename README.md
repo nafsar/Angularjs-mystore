@@ -1,6 +1,7 @@
 # mystore
 + little angularjs app.
-+ Six Directives with and three controllers.
++ Directives and controllers.
 + Displays images, reviews and more
++ http://uiux.biz/myStoreIdea/
 
 
